@@ -1,0 +1,12 @@
+.box {
+  width: 150px;
+  height: 150px;
+  border: 10px solid black;
+  padding: 25px;
+  margin: 25px;
+  background: blue;
+}
+
+.active {
+  background: green;
+}
